@@ -1,5 +1,4 @@
 package com.Hipnozer.YanuschBuissnessu;
-
 import java.util.Scanner;
 
 public class Kitty_Kitty {
@@ -27,8 +26,9 @@ public class Kitty_Kitty {
         } else {
             System.out.println("PurrPurr wanna hug");
         }
-
-        bool_scanner.close();
     }
-
+    public static Sword_of_Darkness Kitty_sword_creator () {
+        Sword_of_Darkness S1 = new Sword_of_Darkness ();
+        return S1;
+    }
 }
