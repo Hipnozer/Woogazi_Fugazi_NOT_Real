@@ -8,3 +8,4 @@
 This program is checking/verifying the mood of the cat using the if statement, boolean values and user input with scanner (cin in cpp).
 3. Woogazi_Foogazi
 Here whe verify the level of Woo-gazification based on the length of the String 
+4. Slonie
