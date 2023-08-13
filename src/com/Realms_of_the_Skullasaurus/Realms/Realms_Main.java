@@ -8,11 +8,14 @@ import java.net.URL;
 
 public class Realms_Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
 
         Institute_of_MonsterlordAxis_Technology institute = new Institute_of_MonsterlordAxis_Technology();
         institute.fundIncrease("small");
         institute.projectStart("small");
 
+=======
+>>>>>>> origin/Woogazi_Fugazi_NOT_Real
         // Get the URL of the HTML file
         URL htmlFileURL = Realms_Main.class.getResource("Realms_index.html");
 
